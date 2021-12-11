@@ -8,3 +8,4 @@ Chaque session
 - un **TP noté** à faire et è rendre avant la session suivante
 - des ressources supplémentaires et des liens pour *aller plus loin*
 
+Accès : pour être inscrit au Github Classrtoom, il faut m'envoyer votre identifiant github
